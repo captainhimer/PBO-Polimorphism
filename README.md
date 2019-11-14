@@ -1,6 +1,6 @@
 # PBO-Polimorphism
 
-# Berikut adalah RUN hasil program PBO Polymorphism
+# Berikut adalah RUN hasil program Toko Jaya Baru
 
 1.
 
